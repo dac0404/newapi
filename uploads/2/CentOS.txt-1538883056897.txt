@@ -1,0 +1,10 @@
+69.87.220.221
+root
+Q7wpX3fLAtD5CWNB
+
+------------------------
+
+user: mysql_pupilo
+pass: W3lcome.557223
+port: 3306
+url: http://69.87.220.221:2030/pma/
